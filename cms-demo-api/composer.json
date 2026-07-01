@@ -1,0 +1,10 @@
+﻿{
+  "name": "demo/cms-demo-api",
+  "description": "Dependency-light CMS demo API with Laravel-style organization.",
+  "type": "project",
+  "require": { "php": ">=8.0" },
+  "scripts": {
+    "serve": "php -S 127.0.0.1:8001 -t public",
+    "seed": "php scripts/seed.php"
+  }
+}

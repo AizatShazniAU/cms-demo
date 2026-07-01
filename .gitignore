@@ -1,0 +1,14 @@
+﻿.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+cms-demo-api/.env
+cms-demo-api/storage/data/*.json
+!cms-demo-api/storage/data/.gitkeep
+cms-demo-api/storage/uploads/*
+!cms-demo-api/storage/uploads/.gitkeep
+cms-demo-api/storage/cache/*
+!cms-demo-api/storage/cache/.gitkeep
+cms-demo-frontend/.env
+cms-demo-frontend/node_modules/
+cms-demo-frontend/dist/
