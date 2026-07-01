@@ -1,4 +1,4 @@
-﻿# CMS Demo
+# CMS Demo
 
 A small, interview-friendly CMS demo based on the architecture of the original split CMS project. It keeps the important flows while removing production databases, internal integrations, credentials, logs, dumps, and company-sensitive logic.
 
